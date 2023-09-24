@@ -54,7 +54,7 @@ export default function LoginScreen() {
             <View
               style={{
                 ...styles.form,
-                marginBottom: isShowKeyboard ? 0 : 145,
+                marginBottom: isShowKeyboard ? 20 : 145,
               }}
             >
               <View style={styles.header}>
